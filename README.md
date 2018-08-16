@@ -1,6 +1,6 @@
 "# RedBirdCenter - an Edition of David Churhills CommandCenter SC2 bot 
 
-![UML Diagram](https://imgur.com/a/qG4B2iP)
+![UML Diagram](https://i.imgur.com/Z30qDF8g.jpg)
 
 Currently structured similarly to the original bot with most noteworthy changes and additions to
 * StrategyManager.cpp/H
